@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug TestNG Suite",
+            "request": "launch",
+            "mainClass": "org.testng.TestNG",
+            "args": "testng.xml",
+            "projectName": "el-pais-scraper",
+            "preLaunchTask": "maven: package"
+        }
+    ]
+}
