@@ -1,0 +1,9 @@
+userName: anikettiwari_f0MeEB
+accessKey: BbJBwXWsKmmxb22wnuGh
+buildName: "ElPaisBuild"
+projectName: "ElPaisProject"
+testObservability: true
+browserstackAutomation: true
+CUSTOM_TAG_1: "test_final"
+# Use CUSTOM_TAG_<N> and set more build tags as you need.
+framework: testng
